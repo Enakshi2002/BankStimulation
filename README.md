@@ -1,4 +1,4 @@
-# BankStimulationin
+# BankStimulation
 
 ####  **Introduction**
 
