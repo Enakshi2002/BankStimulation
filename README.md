@@ -1,4 +1,4 @@
-# BankStimulationinjava
+# BankStimulationin
 
 ####  **Introduction**
 
